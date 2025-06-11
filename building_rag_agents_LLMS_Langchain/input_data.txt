@@ -1,0 +1,4 @@
+Artificial Intelligence (AI) is a rapidly growing field that focuses on creating machines capable of performing tasks that typically require human intelligence. These tasks include problem-solving, decision-making, language understanding, and perception.
+Machine learning (ML), a subset of AI, allows systems to learn and improve from experience without being explicitly programmed. Deep learning, which is a subfield of ML, uses neural networks with many layers (hence "deep") to model complex patterns in large amounts of data.
+Applications of AI are widespread, ranging from virtual assistants like Siri and Alexa to recommendation systems on Netflix and Amazon, and even to medical diagnosis and autonomous vehicles.
+Ethical concerns in AI include job displacement, privacy, algorithmic bias, and the need for transparent and explainable systems.
